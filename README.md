@@ -18,7 +18,8 @@ I am pessionate about coding Because I love what I do in my code, I have a stead
 * Facebook: https://www.facebook.com/naphat.ac
 * Instagram: https://www.instagram.com/npt.third/
 * Portfolio: https://naphat13.weebly.com/
-
+## 💻 See more
+* Github: https://github.com/Habaekz/Naphat.kha
 <!---
 Habaekz/Habaekz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
